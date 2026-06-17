@@ -1,4 +1,4 @@
-﻿{
+{
   "title": "Emergency Surgery Or noT for common Vascular conditions in the periods before and during COVID-19 (ESORT-V): Study Protocol",
   "creators": [
     {
@@ -43,13 +43,15 @@
     }
   ],
   "description": "Study protocol and experimental analysis scripts for the ESORT-V project.",
-  "license": "cc-by-4.0",
   "keywords": [
     "ESORT-V",
     "target trial emulation",
     "vascular surgery",
     "clinical epidemiology"
   ],
-  "upload_type": "publication",
-  "publication_type": "report"
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.1"
 }
