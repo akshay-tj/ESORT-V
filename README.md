@@ -1,8 +1,12 @@
 ﻿# ESORT-V
 
+Emergency Surgery Or noT for common Vascular conditions in the periods before and during COVID-19.
+
 ## Repository contents
 
-- `Protocol-ESORT-V-v2.pdf`: ESORT-V protocol document. Version 1 is available at: https://doi.org/10.17037/PUBS.04677734
+- `Protocol-ESORT-V-v2.pdf`: Version 2 of ESORT-V protocol document. 
+   Version 1 is available at: https://doi.org/10.17037/PUBS.04677734
+   
 - `bypass-tte-code/`: Experimental analysis scripts for the bypass target trial emulation.
 
 ## Reusable code dependency
