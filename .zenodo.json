@@ -1,0 +1,55 @@
+﻿{
+  "title": "Emergency Surgery Or noT for common Vascular conditions in the periods before and during COVID-19 (ESORT-V): Study Protocol",
+  "creators": [
+    {
+      "name": "Hinchliffe, Robert",
+      "affiliation": "Bristol Medical School, University of Bristol; North Bristol NHS Trust"
+    },
+    {
+      "name": "Jagadeesh, Akshay",
+      "affiliation": "Department of Non-Communicable Disease Epidemiology, London School of Hygiene & Tropical Medicine"
+    },
+    {
+      "name": "O'Neill, Stephen",
+      "affiliation": "Department of Health Services Research and Policy, London School of Hygiene & Tropical Medicine"
+    },
+    {
+      "name": "Wong, Kitty",
+      "affiliation": "Bristol Medical School, University of Bristol"
+    },
+    {
+      "name": "Zhu, Zhengnan",
+      "affiliation": "Department of Health Services Research and Policy, London School of Hygiene & Tropical Medicine"
+    },
+    {
+      "name": "Bidulka, Patrick",
+      "affiliation": "Department of Health Services Research and Policy, London School of Hygiene & Tropical Medicine"
+    },
+    {
+      "name": "Hutchings, Andrew",
+      "affiliation": "Clinical Effectiveness Unit, Royal College of Surgeons of England"
+    },
+    {
+      "name": "Mouton, Ronelle",
+      "affiliation": "Bristol Medical School, University of Bristol; North Bristol NHS Trust"
+    },
+    {
+      "name": "Cromwell, David",
+      "affiliation": "Department of Health Services Research and Policy, London School of Hygiene & Tropical Medicine; Clinical Effectiveness Unit, Royal College of Surgeons of England"
+    },
+    {
+      "name": "Grieve, Richard",
+      "affiliation": "Department of Health Services Research and Policy, London School of Hygiene & Tropical Medicine"
+    }
+  ],
+  "description": "Study protocol and experimental analysis scripts for the ESORT-V project.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "ESORT-V",
+    "target trial emulation",
+    "vascular surgery",
+    "clinical epidemiology"
+  ],
+  "upload_type": "publication",
+  "publication_type": "report"
+}
