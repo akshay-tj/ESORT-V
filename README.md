@@ -11,11 +11,7 @@ Emergency Surgery Or noT for common Vascular conditions in the periods before an
 
 ## Reusable code dependency
 
-The experimental scripts in this repository use reusable functions from:
-
-https://github.com/akshay-tj/R-tte
-
-The reusable-code repository was referenced at commit `b46d3ac`.
+The experimental scripts in this repository use reusable functions from [`github.com/akshay-tj/R-tte@b46d3ac`](https://github.com/akshay-tj/R-tte/tree/b46d3ac).
 
 ## Citation
 
