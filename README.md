@@ -15,4 +15,4 @@ The experimental scripts in this repository use reusable functions from [`github
 
 ## Citation
 
-[Add Zenodo citation/DOI here after archiving.]
+Hinchliffe R, Jagadeesh A, O'Neill S, Wong K, Zhu Z, Bidulka P, et al. *Emergency Surgery Or noT for common Vascular conditions in the periods before and during COVID-19 (ESORT-V): Study Protocol*. Zenodo; 2026. [doi:10.5281/zenodo.20734294](https://doi.org/10.5281/zenodo.20734294)
